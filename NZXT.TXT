@@ -8,3 +8,4 @@ Coinbase
 Layer 2
 decentralized
 transactions
+Blockchain technology
