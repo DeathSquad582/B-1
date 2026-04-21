@@ -13,3 +13,4 @@ Base Network
 scalable transactions
 Ethereum mainnet
 off-chain
+main blockchain
