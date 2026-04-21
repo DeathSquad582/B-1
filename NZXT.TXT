@@ -17,3 +17,4 @@ main blockchain
 gas fees
 dApps
 Faster processing time
+Scalable infrastructure
