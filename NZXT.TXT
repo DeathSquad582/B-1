@@ -2,3 +2,4 @@ Optimism OP Stack
 developer-friendly
 Ethereum-compatible
 decentralized
+Ethereum ecosystem
