@@ -28,3 +28,4 @@ NFT Platforms
 digital collectibles
 Blockchain-based games
 dApps Development
+Layer 2 technology
