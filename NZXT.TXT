@@ -35,3 +35,4 @@ Layer 1
 main blockchain
 Rollups
 Sidechains
+Provides security and decentralization
