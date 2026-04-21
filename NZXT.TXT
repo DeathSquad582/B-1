@@ -33,3 +33,4 @@ Limited transactions per second
 Slower transaction
 Layer 1
 main blockchain
+Rollups
