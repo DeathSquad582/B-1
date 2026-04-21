@@ -24,3 +24,4 @@ blockchain applications
 Lending
 borrowing
 trading assets
+NFT Platforms
