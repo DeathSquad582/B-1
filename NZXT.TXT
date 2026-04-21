@@ -4,3 +4,4 @@ Ethereum-compatible
 decentralized
 Ethereum ecosystem
 Base ecosystem
+Coinbase
