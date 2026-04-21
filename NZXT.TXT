@@ -38,3 +38,4 @@ Sidechains
 Provides security and decentralization
 Stores transaction proofs
 Executes transactions off-chain
+Reduces computation load on Ethereum
