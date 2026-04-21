@@ -3,3 +3,4 @@ developer-friendly
 Ethereum-compatible
 decentralized
 Ethereum ecosystem
+Base ecosystem
