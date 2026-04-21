@@ -37,3 +37,4 @@ Rollups
 Sidechains
 Provides security and decentralization
 Stores transaction proofs
+Executes transactions off-chain
