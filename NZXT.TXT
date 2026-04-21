@@ -1,2 +1,3 @@
 Optimism OP Stack
 developer-friendly
+Ethereum-compatible
