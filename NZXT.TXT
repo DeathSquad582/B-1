@@ -25,3 +25,4 @@ Lending
 borrowing
 trading assets
 NFT Platforms
+digital collectibles
