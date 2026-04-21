@@ -16,3 +16,4 @@ off-chain
 main blockchain
 gas fees
 dApps
+Faster processing time
