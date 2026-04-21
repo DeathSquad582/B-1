@@ -31,3 +31,4 @@ dApps Development
 Layer 2 technology
 Limited transactions per second
 Slower transaction
+Layer 1
