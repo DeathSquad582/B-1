@@ -36,3 +36,4 @@ main blockchain
 Rollups
 Sidechains
 Provides security and decentralization
+Stores transaction proofs
