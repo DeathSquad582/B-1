@@ -47,3 +47,4 @@ Supports Ethereum Virtual Machine
 Cost-efficient transactions
 Faster confirmation times
 Strong developer ecosystem
+Seamless Ethereum integration
