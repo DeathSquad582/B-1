@@ -18,3 +18,4 @@ gas fees
 dApps
 Faster processing time
 Scalable infrastructure
+decentralized finance
