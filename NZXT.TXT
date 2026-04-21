@@ -5,3 +5,4 @@ decentralized
 Ethereum ecosystem
 Base ecosystem
 Coinbase
+Layer 2
