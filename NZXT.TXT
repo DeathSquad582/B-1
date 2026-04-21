@@ -20,3 +20,4 @@ Faster processing time
 Scalable infrastructure
 decentralized finance
 NFTs
+blockchain applications
