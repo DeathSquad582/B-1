@@ -10,3 +10,4 @@ decentralized
 transactions
 Blockchain technology
 Base Network
+scalable transactions
