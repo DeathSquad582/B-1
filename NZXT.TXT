@@ -40,3 +40,4 @@ Stores transaction proofs
 Executes transactions off-chain
 Reduces computation load on Ethereum
 Operated by Coinbase
+multiple transactions into a single batch
