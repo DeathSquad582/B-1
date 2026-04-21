@@ -45,3 +45,4 @@ Sends compressed data to Ethereum
 cheaper compared to Ethereum mainnet
 Supports Ethereum Virtual Machine
 Cost-efficient transactions
+Faster confirmation times
