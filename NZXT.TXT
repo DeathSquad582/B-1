@@ -21,3 +21,4 @@ Scalable infrastructure
 decentralized finance
 NFTs
 blockchain applications
+Lending
