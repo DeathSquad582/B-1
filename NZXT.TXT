@@ -81,3 +81,4 @@ Batch is posted to Ethereum
 Faster processing
 Lower cost
 Off-chain execution
+L2 execution fee
