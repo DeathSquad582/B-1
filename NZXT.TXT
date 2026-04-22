@@ -96,3 +96,4 @@ Remix IDE
 Lending platforms
 Decentralized exchanges
 Digital art marketplaces
+Gaming assets
