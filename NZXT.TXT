@@ -95,3 +95,4 @@ Hardhat
 Remix IDE
 Lending platforms
 Decentralized exchanges
+Digital art marketplaces
