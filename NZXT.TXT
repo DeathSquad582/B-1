@@ -88,3 +88,4 @@ Data availability on Ethereum
 Fraud-proof validation
 Transparent transaction records
 Security Risks
+Sequencer centralization
