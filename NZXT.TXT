@@ -83,3 +83,4 @@ Lower cost
 Off-chain execution
 L2 execution fee
 L1 data posting fee
+Base is significantly cheaper than Ethereum
