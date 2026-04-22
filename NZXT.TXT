@@ -52,3 +52,4 @@ Backed by a trusted company
 transactions per second
 Network
 Decentralization
+Reduce computation on Layer 1
