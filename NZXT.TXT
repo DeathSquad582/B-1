@@ -90,3 +90,4 @@ Transparent transaction records
 Security Risks
 Sequencer centralization
 Delayed fraud detection
+MetaMask
