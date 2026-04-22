@@ -99,3 +99,4 @@ Digital art marketplaces
 Gaming assets
 Identity systems
 Low-cost global transactions
+BASE
