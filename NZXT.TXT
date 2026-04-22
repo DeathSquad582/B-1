@@ -53,3 +53,4 @@ transactions per second
 Network
 Decentralization
 Reduce computation on Layer 1
+Process transactions off-chain
