@@ -49,3 +49,4 @@ Faster confirmation times
 Strong developer ecosystem
 Seamless Ethereum integration
 Backed by a trusted company
+transactions per second
