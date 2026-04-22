@@ -57,3 +57,4 @@ Process transactions off-chain
 Submit summarized data back to Ethereum
 Optimistic Rollups
 ZK Rollups
+Sidechains
