@@ -60,3 +60,4 @@ ZK Rollups
 Sidechains
 Low-cost transactions
 High-speed processing
+Ethereum-level security
