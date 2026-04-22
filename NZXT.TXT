@@ -62,3 +62,4 @@ Low-cost transactions
 High-speed processing
 Ethereum-level security
 orders transactions
+Provides instant
