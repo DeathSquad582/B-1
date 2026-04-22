@@ -77,3 +77,4 @@ transaction on Base
 Transaction is sent
 Sequencer orders and executes transaction
 Transaction is included in a batch
+Batch is posted to Ethereum
