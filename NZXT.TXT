@@ -86,3 +86,5 @@ L1 data posting fee
 Base is significantly cheaper than Ethereum
 Data availability on Ethereum
 Fraud-proof validation
+Transparent transaction records
+Security Risks
