@@ -94,3 +94,4 @@ MetaMask
 Hardhat
 Remix IDE
 Lending platforms
+Decentralized exchanges
