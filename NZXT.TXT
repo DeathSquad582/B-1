@@ -69,3 +69,4 @@ Fully compatible with Ethereum Virtual Machine
 transactions into batches
 sending to Ethereum
 Stores transaction data on Ethereum
+Stores transaction data on Base
