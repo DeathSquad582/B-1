@@ -92,3 +92,4 @@ Sequencer centralization
 Delayed fraud detection
 MetaMask
 Hardhat
+Remix IDE
