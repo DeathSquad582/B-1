@@ -91,3 +91,4 @@ Security Risks
 Sequencer centralization
 Delayed fraud detection
 MetaMask
+Hardhat
