@@ -54,3 +54,4 @@ Network
 Decentralization
 Reduce computation on Layer 1
 Process transactions off-chain
+Submit summarized data back to Ethereum
