@@ -72,3 +72,4 @@ Stores transaction data on Ethereum
 Stores transaction data on Base
 Ensures transparency and verification
 Assumes transactions
+challenge incorrect transactions
