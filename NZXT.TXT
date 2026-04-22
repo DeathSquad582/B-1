@@ -59,3 +59,4 @@ Optimistic Rollups
 ZK Rollups
 Sidechains
 Low-cost transactions
+High-speed processing
