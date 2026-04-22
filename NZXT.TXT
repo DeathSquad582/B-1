@@ -82,3 +82,4 @@ Faster processing
 Lower cost
 Off-chain execution
 L2 execution fee
+L1 data posting fee
