@@ -66,3 +66,4 @@ Provides instant
 controlled by Coinbase
 Runs smart contracts
 Fully compatible with Ethereum Virtual Machine
+transactions into batches
